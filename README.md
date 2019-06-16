@@ -19,7 +19,8 @@ website
 
 ### 1.2 Crawling Countries
 ```
-31 countries
+- 31 countries list <countrynamecode.csv> -
+
 1. malaysia
 2. japan
 3. india
